@@ -62,7 +62,7 @@ Sau khi huấn luyện, các mô hình được kết hợp bằng phương phá
 
 ---
 
-## 7. Cách chạy lại dự án
+## 7. Cách chạy dự án
 ```bash
 python merge.py
 python feature.py
